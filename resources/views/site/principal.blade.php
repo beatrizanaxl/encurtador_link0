@@ -14,22 +14,19 @@
             </li>
         <li>
             <a href="/sobre-nos">sobre-nos</a>
-        </li>        
+            </li>        
         <li>
             <a href="contato">contato</a>
-        </li>
+            </li>
         <li>
             <a href="clientes">clientes</a>
-        </li>
+            </li>
         <li>
-            <a href="/produtos">produtos</a>
-        </li>
+            <a href="produtos">produtos</a>
+            </li>
         <li>
             <a href="fornecedores">fornecedores</a>
-        </li>
-        <li>
-            <a href="login">login</a>
-        </li>
+            </li>
     </ul>
     
 </body>
